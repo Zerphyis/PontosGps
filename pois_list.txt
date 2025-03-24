@@ -1,0 +1,8 @@
+, Nome: Praça Central, X: 10, Y: 20
+, Nome: Lanchonete, X: 27, Y: 12
+, Nome: Posto, X: 31, Y: 18
+, Nome: Joalheria, X: 15, Y: 12
+, Nome: Floricultura, X: 19, Y: 21
+, Nome: Pub, X: 12, Y: 8
+, Nome: Supermercado, X: 23, Y: 6
+, Nome: Churrascaria, X: 28, Y: 2
